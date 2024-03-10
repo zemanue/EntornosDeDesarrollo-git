@@ -1,0 +1,3 @@
+Funciones utilizadas:
+- git init
+- git add
